@@ -1,4 +1,4 @@
-# react-native-datepicker [![Build Status](https://travis-ci.org/xgfe/react-native-datepicker.svg?branch=master)](https://travis-ci.org/xgfe/react-native-datepicker) [![Coverage Status](https://coveralls.io/repos/github/xgfe/react-native-datepicker/badge.svg?branch=master)](https://coveralls.io/github/xgfe/react-native-datepicker?branch=master) [![Monthly download](https://img.shields.io/npm/dm/react-native-datepicker.svg)](https://img.shields.io/npm/dm/react-native-datepicker.svg) [![Total downloads](https://img.shields.io/npm/dt/react-native-datepicker.svg)](https://img.shields.io/npm/dt/react-native-datepicker.svg)
+# react-native-datepicker-select [![Build Status](https://travis-ci.org/xgfe/react-native-datepicker.svg?branch=master)](https://travis-ci.org/xgfe/react-native-datepicker) [![Coverage Status](https://coveralls.io/repos/github/xgfe/react-native-datepicker/badge.svg?branch=master)](https://coveralls.io/github/xgfe/react-native-datepicker?branch=master) [![Monthly download](https://img.shields.io/npm/dm/react-native-datepicker.svg)](https://img.shields.io/npm/dm/react-native-datepicker.svg) [![Total downloads](https://img.shields.io/npm/dt/react-native-datepicker.svg)](https://img.shields.io/npm/dt/react-native-datepicker.svg)
 
 React Native DatePicker component for both Android and iOS, using DatePickerAndroid, TimePickerAndroid and DatePickerIOS
 
@@ -21,7 +21,7 @@ Check [index.android.js](https://github.com/xgfe/react-native-datepicker/blob/ma
 
 ```javascript
 import React, { Component } from "react";
-import DatePicker from "react-native-datepicker";
+import DatePicker from "react-native-datepicker-select";
 
 export default class MyDatePicker extends Component {
   constructor(props) {
